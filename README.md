@@ -1,5 +1,4 @@
-# tetris
-Text Mode based Tetris for MS-DOS
+# TETRIS
 
 SIMPLE TEXT MODE BASED TETRIS GAME BY VINCEBUS RIVERUPTUM
 
