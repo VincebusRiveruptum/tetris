@@ -4,9 +4,10 @@ SIMPLE TEXT MODE BASED TETRIS GAME BY VINCEBUS RIVERUPTUM
 
 >What is this?
 
-This was a little project it started somewhere in late 2017-2018 as a
-C programming exercise, using basic IO as the screen and the keyboard, also
-an study of game rules and video game development.
+As title says, just tetris, and a veeery ugly one.  This was a little 
+project it started somewhere late 2019 as a C programming exercise, 
+using basic IO as the screen and the keyboard, also as a study of 
+game rules and video game development.
 
 For programming, i used Borland C 3.1 on an old 486DX4-100 Machine. If you
 want to check it out i'd recommend installing Borland C (I'm pretty sure
@@ -17,7 +18,6 @@ then compile it and done.
 
 It doesn't use the arrow keys yet, but WASD for the piece movement, SPACE
 for rotation and CTRL+PAUSE to exit the application.
-
 
 >Any future improvements?
 
